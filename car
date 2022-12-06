@@ -38,15 +38,15 @@ class ParkingLot:
    self.isOccupied=True
    self.isStaff=True
    
- def parkVisitorCar(self,carinparking(:
+ def parkVisitorCar(self,carinparking):
    sf.carinparking=carinparking
    self.isOccupied=True
    self.isStaff= False
 
-class CarPark;
+class CarPark:
    def_init_(self);self.parkingslots = [] 
    def addnewParkingSlots(self,parkingslots):
-:
+
    self.parkingslots.append(parkingslot)
    def getAvailableParking(self):
        spots = [] 
