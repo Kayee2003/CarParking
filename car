@@ -1,0 +1,11 @@
+class Car;
+
+  def_init_(self,rego,ownerName);
+    self.rego = rego
+    self.ownerName = ownerName
+  
+  def getOwner(self):
+    return self.ownerName
+    
+  def getRego(self):
+  return self.rego
