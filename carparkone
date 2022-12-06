@@ -1,0 +1,19 @@
+carparkone = CarPark()
+staffSpots = int(input("Start by establishing the number of Staff ParkingSpots"))
+visSots = int(input("Start by establishing the number of Visitor ParkingSpots"))
+rows = 0
+secondrow = 0
+while rows < staffSpots:
+  while rows+=1
+  parkingspot = ParkingLot("S"=str(rows), True)
+  carparkone.addnewParkingSlots(vispakingspot)
+while secondrow< visSpots:
+  secondrow+=1
+  visparkingspot = ParkingLot("V"+str(secondrow), False)
+  carparkone.addnewParkingSlots(visoarkingspot)
+vehicle = input("Please enter the rego of the car being parked")
+owner = input("Please enter the owners name")
+car = Car(vehicle, owner)
+print(carparkone.getALLparking())
+sid = input("Please select spot")
+carparkone.findParkingbyID(sid).parkStaffCar((car)
