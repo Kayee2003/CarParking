@@ -9,3 +9,36 @@ class Car;
     
   def getRego(self):
   return self.rego
+
+class ParkingLot:
+
+ def_init_(self,sid,isStaff):
+   self.sid=sid
+   self.isOccupied=False
+   self.isStaff=isStaff
+   
+ def getParkingID(self):
+   return self.sid
+   
+ def getisStaff(self):
+   return self.isStaff
+   
+ def getVehicle(self):
+   return self.carinparking
+   
+ def setStaff(self,isStaff):
+   self.isStaff=distaff
+   
+ def removeVehicle(self):
+   self.isOccupied=False
+   return self.carinparking
+   
+ def parkStaffCar(self,carinparking):
+   self.carinparking=carinparking
+   self.isOccupied=True
+   self.isStaff=True
+   
+ def parkVisitorCar(self,carinparking(:
+   sf.carinparking=carinparking
+   self.isOccupied=True
+   self.isStaff=
