@@ -41,4 +41,6 @@ class ParkingLot:
  def parkVisitorCar(self,carinparking(:
    sf.carinparking=carinparking
    self.isOccupied=True
-   self.isStaff=
+   self.isStaff= False
+
+
