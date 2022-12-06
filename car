@@ -41,6 +41,32 @@ class ParkingLot:
  def parkVisitorCar(self,carinparking(:
    sf.carinparking=carinparking
    self.isOccupied=True
-   self.isStaff=False
+   self.isStaff= False
+
+class CarPark;
+   def_init_(self);self.parkingslots = [] 
+   def addnewParkingSlots(self,parkingslots):
+:
+   self.parkingslots.append(parkingslot)
+   def getAvailableParking(self):
+       spots = [] 
+       for i in self.parkingslots:if.i getisOccupied() ==False:
+ 
+   spots.append(i.getParkingID()) return sports 
+   def getAllParking(self):
+      sports = [] 
+      for i in self.parkingslots:
+   spots.append(i.getParkingID()) return spots
+   
+   def removeParking(self, sid):
+   for i in self.parkingslots:
+   if i.getParkingID() == sid:
+   return True
+   return False
+   
+   def findParkingbyID(self,sid(:
+   parkingfound = ParkingLot(-1,False)
+   for i.getParkingID() == sid:
+   parkingfound = i return parkingfound 
 
 
