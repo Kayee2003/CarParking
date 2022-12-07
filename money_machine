@@ -3,7 +3,7 @@ class MoneyMachine:
     CURRENCY = "Peso"
 
     COIN_VALUES = {
-        "peso": 50,
+        "peso": 1,
     }
 
     def __init__(self):
