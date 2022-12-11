@@ -4,14 +4,20 @@ class CoffeeMaker:
         self.resources = {
             "water": 300,
             "milk": 200,
-            "coffee": 100,
+            "tea": 100,
+            "boba": 350,
+            "wintermelon": 200,
+            "okinawa": 200,
         }
 
     def report(self):
         """Prints a report of all resources."""
         print(f"Water: {self.resources['water']}ml")
         print(f"Milk: {self.resources['milk']}ml")
-        print(f"Coffee: {self.resources['coffee']}g")
+        print(f"Tea: {self.resources['tea']}g")
+        print(f"Boba {self.resources['boba']}g")
+        print(f"Wintermelon {self.resources['wintermelon']}g")
+        print(f"Okinawa {self.resources['wintermelon']}")
 
     def is_resource_sufficient(self, drink):
         """Returns True when order can be made, False if ingredients are insufficient."""
