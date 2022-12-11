@@ -1,5 +1,5 @@
-class CoffeeMaker:
-    """Models the machine that makes the coffee"""
+class MilkteaMaker:
+    """Models the machine that makes the milktea"""
     def __init__(self):
         self.resources = {
             "water": 300,
@@ -17,7 +17,7 @@ class CoffeeMaker:
         print(f"Tea: {self.resources['tea']}g")
         print(f"Boba {self.resources['boba']}g")
         print(f"Wintermelon {self.resources['wintermelon']}g")
-        print(f"Okinawa {self.resources['wintermelon']}")
+        print(f"Okinawa {self.resources['okinawa']}")
 
     def is_resource_sufficient(self, drink):
         """Returns True when order can be made, False if ingredients are insufficient."""
@@ -28,7 +28,7 @@ class CoffeeMaker:
                 can_make = False
         return can_make
 
-    def make_coffee(self, order):
+    def make_milktea(self, order):
         """Deducts the required ingredients from the resources."""
         for item in order.ingredients:
             self.resources[item] -= order.ingredients[item]
