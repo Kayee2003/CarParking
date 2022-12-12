@@ -37,7 +37,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 ## Contributors
 
-**IT2102**
+    **IT2102**
 
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
