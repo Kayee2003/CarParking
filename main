@@ -1,9 +1,9 @@
 from menu import Menu, MenuItem
-from coffee_maker import CoffeeMaker
+from milktea_maker import MilkteaMaker
 from money_machine import MoneyMachine
 
 money_machine = MoneyMachine()
-coffee_maker = CoffeeMaker()
+milktea_maker = MilkteaMaker()
 menu = Menu()
 is_on = True
 
