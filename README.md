@@ -23,9 +23,18 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 | Metric             	| 4 	| 3 	| 2 	| 1 	|
 |--------------------	|---	|---	|---	|---	|
-| Code Reusability   	|     | ✅ |     |   	|
-| Maintainability    	| ✅ |   	|   	|   	|
-| Scalability        	| ✅ |   	|   	|   	|
-| Execution          	|     | ✅ |   	|   	|
-| Originality        	|	✅ |    	|   	|   	|
-| Overall Impression 	| ✅ |   	|   	|   	|
+| Code Reusability   	|   	| ✅ 	|       |   	|
+| Maintainability    	|✅ 	|  	|   	|   	|
+| Scalability        	| ✅ 	|   	|   	|   	|
+| Execution          	|✅  	|  	|   	|   	|
+| Originality        	|  	| ✅ 	|   	|   	|
+| Overall Impression 	| ✅  	|   	|   	|   	|
+
+## 🧾 Contributors
+
+| Names            	   | Link	                                                |
+|--------------------------| ---------------------------------------------------------- |
+| Espina,Frankie Nicole    |  [@Frankie-Nicole](https://github.com/FrankieNicoleEspina)              |
+| Macaraig,Robelyn         |  [@Robelyn](https://github.com/RobelynMacaraig)  |  
+| Marquez,Paula Kristha    |  [@Paula-Kristha](https://github.com/PaulaKristhaMarquez)            | 
+        |
