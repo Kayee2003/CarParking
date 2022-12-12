@@ -22,6 +22,7 @@ The right solution to this problem is to store the current state of the machine.
 
 ## Concepts Used
 Encapsulation - We put in place encapsulation by bundling data and methods within a single unit by creating classes.
+
 Abstaction- We have set variables whose values we don't want to change.
 
 
