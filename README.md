@@ -28,7 +28,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Scalability        	| ✅ 	|   	|   	|   	|
 | Execution          	|✅  	|  	|   	|   	|
 | Originality        	|  	| ✅ 	|   	|   	|
-| Overall Impression 	| ✅  	|   	|   	|   	|
+| Overall Impression 	|   	|   ✅	|   	|   	|
 
 ## 🧾 Contributors
 
