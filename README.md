@@ -13,7 +13,8 @@ The first problem that comes to mind: how to write that method in a way that it 
 The right solution to this problem is to store the current state of the machine. The milktea machine has several states it can be in. For example, the state could be "choosing an action" or "choosing a type of milktea". Every time the user inputs something and a program passes that line to the method, the program determines how to interpret this line using the information about the current state. After processing this line, the state of the milktea machine can be changed or can stay the same.
 
 Objective
- Your final task is to refactor the program, Make it so that you can communicate with the milktea machine through a single method. Goodluck!!
+
+Your final task is to refactor the program, Make it so that you can communicate with the milktea machine through a single method. Goodluck!!
  
  Example
  Your milktea machine should have thebsame initial resource as in the example 
