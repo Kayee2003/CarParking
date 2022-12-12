@@ -11,7 +11,7 @@ class MenuItem:
             "taro": taro,
             "chocolate": chocolate,
             "okinawa": okinawa,
-            "wintermelon": wintermelon,
+            "wintermelon": wintermelon
         }
 
 
