@@ -21,20 +21,20 @@ The right solution to this problem is to store the current state of the machine.
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:
 
-| Metric             	| 4 	| 3 	| 2 	| 1 	|
-|--------------------	|---	|---	|---	|---	|
-| Code Reusability   	|   	| ✅ 	|       |   	|
-| Maintainability    	|✅ 	|  	|   	|   	|
-| Scalability        	| ✅ 	|   	|   	|   	|
-| Execution          	|✅  	|  	|   	|   	|
-| Originality        	|  	| ✅ 	|   	|   	|
-| Overall Impression 	|   	|   ✅	|   	|   	|
+| Metric             	| 4 | 3 | 2 | 1 |
+|--------------------	|---|---|---|---|
+| Code Reusability   	|   |✅|   |   |
+| Maintainability    	|✅|   |   |   |
+| Scalability        	|✅|   |   |   |
+| Execution          	|✅|   |   |   |
+| Originality        	|  | ✅|   |   |
+| Overall Impression 	|✅|   |   |   |
 
 ## 🧾 Contributors
 
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
-| Espina,Frankie Nicole    |  [@Frankie-Nicole](https://github.com/FrankieNicoleEspina)              |
-| Macaraig,Robelyn         |  [@Robelyn](https://github.com/rblynmcrg)  |  
-| Marquez,Paula Kristha    |  [@Paula-Kristha](https://github.com/MarquezPaulaKristha)            | 
-        |
+| Espina,Frankie Nicole    |  [@Frankie-Nicole](https://github.com/FrankieNicoleEspina) |
+| Macaraig,Robelyn         |  [@Robelyn](https://github.com/RobelynMacaraig)            |  
+| Marquez,Paula Kristha    |  [@Paula-Kristha](https://github.com/PaulaKristhaMarquez)  | 
+        
