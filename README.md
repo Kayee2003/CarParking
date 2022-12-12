@@ -45,7 +45,9 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Originality        	|  | ✅|   |   |
 | Overall Impression 	|✅|   |   |   |
 
+## Video Presentation
 
+This is our [Video Presentation](https://youtu.be/HxS4aY0Mkaw)
 
 ## Contributors
 
