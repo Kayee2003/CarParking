@@ -23,9 +23,9 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 | Metric             	| 4 	| 3 	| 2 	| 1 	|
 |--------------------	|---	|---	|---	|---	|
-| Code Reusability   	|   	| ✅ 	|       |   	|
-| Maintainability    	|✅ 	|  	|   	|   	|
-| Scalability        	| ✅ 	|   	|   	|   	|
-| Execution          	|✅  	|  	|   	|   	|
-| Originality        	|  	| ✅ 	|   	|   	|
-| Overall Impression 	| ✅  	|   	|   	|   	|
+| Code Reusability   	|     | ✅ |     |   	|
+| Maintainability    	| ✅ |   	|   	|   	|
+| Scalability        	| ✅ |   	|   	|   	|
+| Execution          	|     | ✅ |   	|   	|
+| Originality        	|	✅ |    	|   	|   	|
+| Overall Impression 	| ✅ |   	|   	|   	|
