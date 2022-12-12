@@ -19,7 +19,7 @@ class Menu:
     """Models the Menu with drinks."""
     def __init__(self):
         self.menu = [
-            MenuItem(name="taro", water=50, milk=80, tea=24, boba=50, taro=70, chocolate=0 okinawa=0, wintermelon=0, cost=40),
+            MenuItem(name="taro", water=50, milk=80, tea=24, boba=50, taro=70, chocolate=0, okinawa=0, wintermelon=0, cost=40),
             MenuItem(name="chocolate", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=70 okinawa=0, wintermelon=0, cost=40),
             MenuItem(name="okinawa", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=0 okinawa=70, wintermelon=0, cost=40),
             MenuItem(name="wintermelon", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=0 okinawa=0, wintermelon=70, cost=40),
