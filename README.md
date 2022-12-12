@@ -18,8 +18,12 @@ The first problem that comes to mind: how to write that method in a way that it 
 The right solution to this problem is to store the current state of the machine. The milktea machine has several states it can be in. For example, the state could be "choosing an action" or "choosing a type of milktea". Every time the user inputs something and a program passes that line to the method, the program determines how to interpret this line using the information about the current state. 
 
 
+
+
 ## Concepts Used
 Encapsulation - We put in place encapsulation by bundling data and methods within a single unit by creating classes.
+
+
 
 
 ## Self Assesment
@@ -34,6 +38,8 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Execution          	|✅|   |   |   |
 | Originality        	|  | ✅|   |   |
 | Overall Impression 	|✅|   |   |   |
+
+
 
 ## Contributors
 
