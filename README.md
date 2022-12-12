@@ -15,6 +15,4 @@ The right solution to this problem is to store the current state of the machine.
 Objective
 
 Your final task is to refactor the program, Make it so that you can communicate with the milktea machine through a single method. Goodluck!!
- 
- Example
- Your milktea machine should have thebsame initial resource as in the example 
+
