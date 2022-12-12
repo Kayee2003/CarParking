@@ -1,15 +1,17 @@
 class MenuItem:
     """Models each Menu Item."""
-    def __init__(self, name, water, milk, tea, boba, okinawa, wintermelon, cost):
+    def __init__(self, name, water, milk, tea, boba, taro, chocolate, okinawa, wintermelon, cost):
         self.name = name
         self.cost = cost
         self.ingredients = {
-            "water": 300,
-            "milk": 200,
-            "tea": 100,
-            "boba": 350,
-            "okinawa": 200,
-            "wintermelon": 200,
+            "water": water,
+            "milk": milk,
+            "tea": tea,
+            "boba": boba,
+            "taro": taro,
+            "chocolate": chocolate,
+            "okinawa": okinawa,
+            "wintermelon": wintermelon,
         }
 
 
@@ -17,8 +19,10 @@ class Menu:
     """Models the Menu with drinks."""
     def __init__(self):
         self.menu = [
-            MenuItem(name="latte", water=80, milk=50, tea=60, boba=50, okinawa=24, cost=10),
-            MenuItem(name="espresso", water=80, milk=50, tea=60, boba=50, watermelon=24, cost=20),
+            MenuItem(name="taro", water=50, milk=80, tea=24, boba=50, taro=70, chocolate=0 okinawa=0, wintermelon=0, cost=40),
+            MenuItem(name="chocolate", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=70 okinawa=0, wintermelon=0, cost=40),
+            MenuItem(name="okinawa", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=0 okinawa=70, wintermelon=0, cost=40),
+            MenuItem(name="wintermelon", water=50, milk=80, tea=24, boba=50, taro=0, chocolate=0 okinawa=0, wintermelon=70, cost=40),
         ]
 
     def get_items(self):
