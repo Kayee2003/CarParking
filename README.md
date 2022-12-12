@@ -1,12 +1,11 @@
 # Milktea-Machine-Python
-
-Simple milktea machine system made using Python with OOP principles
 ![Fresh Bubble Tea Drink Logo](https://user-images.githubusercontent.com/115056836/206976278-60a711e7-6331-472f-982e-74b8953a4adc.jpg)
 
 
 
 
 #
+Simple milktea machine system made using Python with OOP principles
 Description
 
 Let's write a class that represents a milktea machine. The class should have a method that takes a string as input. Every time the user inputs a string to console, the program invokes this method with one argument: the line that user input to the console. This system simulates pretty accurately how real-world electronic devices work. External components (like buttons on the milktea machine or tapping on the screen) generate events that pass into the single interface of the program.
